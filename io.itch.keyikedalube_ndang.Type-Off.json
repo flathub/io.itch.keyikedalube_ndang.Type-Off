@@ -1,7 +1,7 @@
 {
 	"app-id": "io.itch.keyikedalube_ndang.Type-Off",
 	"runtime": "org.freedesktop.Platform",
-	"runtime-version": "21.08",
+	"runtime-version": "23.08",
 	"sdk": "org.freedesktop.Sdk",
 	"command": "io.itch.keyikedalube_ndang.Type-Off.x86_64",
 	"finish-args": [
